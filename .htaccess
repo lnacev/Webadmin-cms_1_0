@@ -1,0 +1,7 @@
+RewriteEngine On
+#RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ https://balonparty.webadmin-cms.cz/$1 [R,L] [R,L]
+# 
+#RewriteEngine on
+#RewriteCond %{HTTP_HOST} ^balonparty\.(.*)
+#RewriteRule ^.*$ https://%1/$1 [R=301,L]
